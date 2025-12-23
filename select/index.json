@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Coffee",
+  "base_artist": "beabadoobee",
+  "createdAt": "2025-12-23T05:08:22.228105Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get It Together (feat. Black Coffee and Jorja Smith)",
+      "artist": "Drake",
+      "has_synced": true,
+      "path": "select/01_Get_It_Together_(feat._Black_Coffee_and_Jorja_Smith)_Drake.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Cup Of Coffee",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/02_Cup_Of_Coffee_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Coffee Break",
+      "artist": "Zeds Dead feat. Omar LinX",
+      "has_synced": true,
+      "path": "select/03_Coffee_Break_Zeds_Dead_feat._Omar_LinX.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Coffee Break",
+      "artist": "Zeds Dead & Omar LinX",
+      "has_synced": true,
+      "path": "select/04_Coffee_Break_Zeds_Dead_&_Omar_LinX.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Coffee Break",
+      "artist": "MEW",
+      "has_synced": false,
+      "path": "select/05_Coffee_Break_MEW.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Coffee",
+      "artist": "Miguel",
+      "has_synced": true,
+      "path": "select/06_Coffee_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Black Coffee",
+      "artist": "Sinéad O'Connor",
+      "has_synced": true,
+      "path": "select/07_Black_Coffee_Sinéad_O'Connor.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Coffee & TV",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/08_Coffee_&_TV_Blur.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Coffee Day",
+      "artist": "Lene",
+      "has_synced": false,
+      "path": "select/09_Bad_Coffee_Day_Lene.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Black Coffee (The Neptunes remix)",
+      "artist": "All Saints",
+      "has_synced": false,
+      "path": "select/10_Black_Coffee_(The_Neptunes_remix)_All_Saints.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Coffee Club",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/11_Coffee_Club_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Coffee Club (2010 Remaster)",
+      "artist": "Spandau Ballet",
+      "has_synced": true,
+      "path": "select/12_Coffee_Club_(2010_Remaster)_Spandau_Ballet.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Coffee Club - 2010 Remastered Version",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/13_Coffee_Club_-_2010_Remastered_Version_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Coffee Club (Remix)",
+      "artist": "Spandau Ballet",
+      "has_synced": false,
+      "path": "select/14_Coffee_Club_(Remix)_Spandau_Ballet.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Coffee",
+      "artist": "Aesop Rock feat. John Darnielle",
+      "has_synced": false,
+      "path": "select/15_Coffee_Aesop_Rock_feat._John_Darnielle.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Coffee (feat. John Darnielle)",
+      "artist": "Aesop Rock",
+      "has_synced": false,
+      "path": "select/16_Coffee_(feat._John_Darnielle)_Aesop_Rock.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Coffee",
+      "artist": "beabadoobee",
+      "has_synced": false,
+      "path": "select/pl_01_Coffee_beabadoobee.txt"
+    }
+  ]
+}
